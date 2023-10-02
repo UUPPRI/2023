@@ -550,6 +550,9 @@ index.html
 
 ./_site/UU:
 index.html
+UU-2023-001-KITAB-UNDANG-UNDANG-HUKUM-PIDANA.pdf
+UU-2023-016-LANDAS-KONTINEN.pdf
+UU-2023-017-KESEHATAN.pdf
 
 ./SKB:
 index.md
